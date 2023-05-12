@@ -1,9 +1,9 @@
-package com.Structural;
+package com.structural;
 
 /**
  * 装饰者(Decorator)模式示例
  */
-public class Decorator {
+public class DecoratorPattern {
     public static void main(String[] args) {
 
         // 原始的DarkRoast咖啡
