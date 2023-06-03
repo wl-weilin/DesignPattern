@@ -1,5 +1,8 @@
 package com.creational.factory;
 
+/**
+ * 使用到了简单工厂模式中的部分代码
+ */
 public class AbstractFactoryPattern {
     public static void main(String[] args) {
         AbstractFactory factory1 = new ConcreteFactory1();
